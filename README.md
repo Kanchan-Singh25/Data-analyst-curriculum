@@ -22,3 +22,8 @@ power bi ->https://www.youtube.com/watch?v=KdC5R7oPCAI ( visualization tool)
  hackerrank (currently using )
  
  leetcode 
+
+ ----
+
+09-may-2026.
+ Got an overview of power bi by making sales dashboard ( rishabh mishra yt.)
